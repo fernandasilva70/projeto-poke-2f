@@ -1,6 +1,6 @@
 div {
-       display:grid;
-       grid-template-columns: 50px 50px 50px;
+       display:flex;
+       flex-direction: column;
        flex-wrap: nowrap;
        background-color: blueviolet;
        width: 500px;

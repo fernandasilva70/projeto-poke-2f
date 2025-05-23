@@ -1,6 +1,6 @@
 import poke from './assets/pokeapi_256 2.png'
 import eevee from  './assets/eevee.jpg'
-
+import './Home.css'
 const Home =()=>{
     return (
     <div>
